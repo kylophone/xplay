@@ -1,7 +1,7 @@
 #!/usr/bin/python
 import sys, os
-RTPDUMP_BIN = "rtpdump" #change this if your path is different
-PLAY_BIN = "play" #change this if your path is different
+RTPDUMP_BIN = "/usr/bin/rtpdump" #change this if your path is different
+PLAY_BIN = "/usr/bin/play" #change this if your path is different
 
 if len(sys.argv) != 2:
 	print "Please supply a valid Livewire channel number (1 - 32767). Correct usage: xplay 32767"

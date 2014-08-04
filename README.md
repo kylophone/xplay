@@ -8,7 +8,7 @@ You'll need `play` which comes with <a href = "http://sox.sourceforge.net/">SoX<
 
 setup
 =====
-If you've installed play and rtpdump somewhere that's not /usr/bin, you'll need to update those paths in xplay.py
+If you've installed `play` and `rtpdump` somewhere that's not /usr/bin, you'll need to update those paths in xplay.py
 ```bash
 $ chmod +x xplay.py
 $ cp xplay.py /usr/bin/xplay

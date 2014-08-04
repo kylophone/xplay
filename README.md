@@ -14,7 +14,7 @@ $ cp xplay.py /usr/bin/xplay
 ```
 usage
 =====
-Make sure you assign your computer an IP address that is on the Axia network. Call xplay with the Axia channel number you'd like to listen in on, and you should be able to hear the Livewire stream. ^C to stop.
+Make sure you assign your computer an IP address that is on the Axia network. Call xplay with the Axia channel number you'd like to listen in on, and you should be able to hear the Livewire stream. ^c to stop.
 ```bash
 $ xplay 32767
 ```

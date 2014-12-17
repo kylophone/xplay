@@ -1,5 +1,7 @@
 #!/usr/bin/python
-import sys, os
+import sys
+import os
+
 RTPDUMP_BIN = "/usr/bin/rtpdump" #change this if your path is different
 PLAY_BIN = "/usr/bin/play" #change this if your path is different
 

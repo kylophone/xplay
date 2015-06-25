@@ -1,6 +1,6 @@
 xplay
 =====
-xplay is a tool for playing Axia Livewire AoIP streams from the command line. Functionally the same as Axia iPlay on Windows, this is a an option for engineers using Linux or OSX. xplay works by piping the audio payload from a multicast RTP stream directly into the SoX utility `play` along with a few stream parameters. 
+xplay is a tool for playing Axia Livewire AoIP streams from the command line. Functionally the same as Axia iPlay on Windows, this is a an option for engineers using Linux or OS X. xplay works by piping the audio payload from a multicast RTP stream directly into the SoX utility `play` along with a few stream parameters. 
 
 dependencies
 =====
